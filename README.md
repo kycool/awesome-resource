@@ -8,3 +8,7 @@
 
 ### 1.2 文件处理
 - https://github.com/SheetJS/sheetjs 表格处理
+- https://github.com/Stuk/jszip 生成压缩包
+- https://github.com/mixmark-io/turndown 把 html 转换为 markdown
+- https://github.com/mwilliamson/mammoth.js docs 转换为 html
+- https://github.com/dolanmiu/docx 生成 docx
